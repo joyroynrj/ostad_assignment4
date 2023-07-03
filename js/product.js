@@ -1,0 +1,50 @@
+export const productsData = [
+    {
+      id: 1,
+      image: "https://images.unsplash.com/photo-1516478177764-9fe5bd7e9717?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDExfHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60",
+      name: "Product title 1",
+      price: 11.24,
+      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      button: "Add to Cart",
+    },
+    {
+      id: 2,
+      image: "https://images.unsplash.com/photo-1511556532299-8f662fc26c06?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEyfHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60",
+      name: "Product title 2",
+      price: 22,
+      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      button: "Add to Cart",
+    },
+    {
+      id: 3,
+      image: "https://images.unsplash.com/photo-1514989940723-e8e51635b782?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+      name: "Product title 3",
+      price: 17,
+      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      button: "Add to Cart",
+    },
+    {
+      id: 4,
+      image: "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+      name: "Product title 4",
+      price: 32,
+      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      button: "Add to Cart",
+    },
+    {
+      id: 5,
+      image: "https://images.unsplash.com/photo-1575537302964-96cd47c06b1b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60",
+      name: "Product title 5",
+      price: 14,
+      description:"Lorem ipsum dolor sit amet, consectetur adipiscing elit", 
+      button: "Add to Cart",
+    },
+    {
+      id: 6,
+      image: "https://images.unsplash.com/photo-1490168105446-f43395eb50b5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE5fHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60",
+      name: "Product title 6",
+      price: 24,
+      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      button: "Add to Cart",
+    }
+  ];
